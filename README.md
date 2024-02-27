@@ -2,13 +2,6 @@
 
 This repository contains the files for the Sprint 1 placement service project by me. The project aims to create a web application that helps students find suitable internships and jobs based on their skills and preferences.
 
-## Installation
-
-To run the project, you need to download the `Placement_Service_Aravindhan.zip` file from this repository and extract it to your local machine. Then, you need to install the required dependencies by running the following command in the terminal:
-
-```bash
-pip install -r requirements.txt
-```
 ## Features
 
 The web application has the following features:
